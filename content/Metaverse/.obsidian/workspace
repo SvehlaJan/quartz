@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/Data security/Biological, behavioural sensitive data.md",
+            "file": "Companies/Minor/VRChat.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Data security/Biological, behavioural sensitive data.md",
+                "file": "Companies/Minor/VRChat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6e62148e45e3a4ca",
   "lastOpenFiles": [
+    "Companies/Minor/VRChat.md",
+    "Companies/Minor/Metafluence.md",
+    "Companies/Minor/Decentraland.md",
+    "Companies/Apple.md",
+    "Companies/Disney.md",
+    "Companies/Meta.md",
+    "Companies/Microsoft.md",
+    "Companies/Nvidia Omniverse.md",
     "Problems/Data security/Biological, behavioural sensitive data.md",
-    "Problems/Data security/Data breaches.md",
-    "Problems/Data security/Device security.md",
-    "Problems/Identity/Identity, Account management.md",
-    "Problems/Identity/Secure monetary transactions.md",
-    "Problems/Identity/Verification methods.md",
-    "Problems/Manipulation/Mass manipulation.md",
-    "Problems/Manipulation/Social credit system.md",
-    "Problems/Manipulation/Social engineering attacks.md",
-    "Problems/Privacy/Advergaming.md"
+    "Problems/Data security/Data breaches.md"
   ]
 }

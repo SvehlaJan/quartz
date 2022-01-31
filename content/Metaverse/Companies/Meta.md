@@ -1,3 +1,6 @@
+---
+title: "Meta"
+---
 # Horizon Home
 - https://www.oculus.com/blog/connect-2021-recap-horizon-home-the-future-of-work-presence-platform-and-more/
 - app for simulating user's virtual home environment, can be heavily personalised
