@@ -1,3 +1,6 @@
+---
+title: "Brainstorming notes"
+---
 - share the data before the brainstorming
 
 - what is the problem? what do we know about it?

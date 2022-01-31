@@ -1,3 +1,6 @@
+---
+title: "Identity, Account management"
+---
 - it's expected that every platform in the Metaverse will want to own user's identity
 - will the identities interoperate?
 - will the platforms allow standards such as [[Decentralised identity]]?

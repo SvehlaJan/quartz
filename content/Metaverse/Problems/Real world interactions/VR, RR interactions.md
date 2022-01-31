@@ -1,3 +1,6 @@
+---
+title: "VR, RR interactions"
+---
 - Meta showed a vision of people wearing VR glasses in the real world, recording everything - [[Privacy]] problem
 - they also showed a vision of having a copy of user's house in VR - [[Meta#Horizon Home]]
 	- will it be accessible to strangers?

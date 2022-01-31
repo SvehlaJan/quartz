@@ -1,3 +1,6 @@
+---
+title: "Mass manipulation"
+---
 - with [[Biological, behavioural sensitive data]] and immersive VR experience, the potential influencing/manipulating capabilities are massive
 	- the behavioural models will be able to choose the best message, at the best time, in the best amount, while in the best state of mind
 	- the immersive VR experience will use all human senses to deliver the message and push it into the mind

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/Identity/Verification methods.md",
+            "file": "Problems/Data security/Biological, behavioural sensitive data.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Identity/Verification methods.md",
+                "file": "Problems/Data security/Biological, behavioural sensitive data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6e62148e45e3a4ca",
   "lastOpenFiles": [
-    "Problems/Identity/Verification methods.md",
-    "Problems/Manipulation/Social engineering attacks.md",
-    "Problems/Real world interactions/Health damage.md",
-    "Problems/Real world interactions/Isolation, mental health.md",
-    "Problems/Real world interactions/Physical dangers.md",
-    "Problems/Governance, policies.md",
-    "Problems/Data security/Data breaches.md",
     "Problems/Data security/Biological, behavioural sensitive data.md",
-    "Problems/Privacy.md",
+    "Problems/Data security/Data breaches.md",
+    "Problems/Data security/Device security.md",
+    "Problems/Identity/Identity, Account management.md",
+    "Problems/Identity/Secure monetary transactions.md",
+    "Problems/Identity/Verification methods.md",
+    "Problems/Manipulation/Mass manipulation.md",
+    "Problems/Manipulation/Social credit system.md",
+    "Problems/Manipulation/Social engineering attacks.md",
     "Problems/Privacy/Advergaming.md"
   ]
 }

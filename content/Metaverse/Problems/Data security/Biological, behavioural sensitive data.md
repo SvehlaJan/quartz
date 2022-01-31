@@ -1,3 +1,6 @@
+---
+title: "Biological, behavioural sensitive data"
+---
 - headsets will have access to extremely sensitive biological data
 	- wearer's facial expressions, eye retina, muscle contractions, sweat
 - from people's reaction to given sensations (ie. how retina dilates when certain advertisement is seen), very precise behavioural data can be computed

@@ -1,3 +1,6 @@
+---
+title: "Inbox"
+---
 https://www.youtube.com/watch?v=6OMzvvJHYxU
 
 https://www.w3.org/community/metaverse-interop/

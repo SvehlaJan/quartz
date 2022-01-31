@@ -1,3 +1,6 @@
+---
+title: "Data breaches"
+---
 - data breaches will eventually happen
 	- the data might be more sensitive by a magnitude ([[Biological, behavioural sensitive data]])
 - Avast might protect the data
