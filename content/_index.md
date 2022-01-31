@@ -4,37 +4,37 @@ title: Metaverse problem areas
 # Data security
 [Biological, behavioural sensitive data](Problems/Data%20security/Biological,%20behavioural%20sensitive%20data.md)
 
-[Data breaches](Data%20breaches.md)
+[Data breaches](Problems/Data%20security/Data%20breaches.md)
 
-[Device security](Device%20security.md)
+[Device security](Problems/Data%20security/Device%20security.md)
 
 # Identity
-[Identity, Account management](Identity,%20Account%20management.md)
+[Identity, Account management](Problems/Identity/Identity,%20Account%20management.md)
 
-[Secure monetary transactions](Secure%20monetary%20transactions.md)
+[Secure monetary transactions](Problems/Identity/Secure%20monetary%20transactions.md)
 
-[Verification methods](Verification%20methods.md)
+[Verification methods](Problems/Identity/Verification%20methods.md)
 
 # Manipulation
-[Mass manipulation](Mass%20manipulation.md)
+[Mass manipulation](Problems/Manipulation/Mass%20manipulation.md)
 
-[Social credit system](Social%20credit%20system.md)
+[Social credit system](Problems/Manipulation/Social%20credit%20system.md)
 
-[Social engineering attacks](Social%20engineering%20attacks.md)
+[Social engineering attacks](Problems/Manipulation/Social%20engineering%20attacks.md)
 
 # Privacy
-[Advergaming](Advergaming.md)
+[Advergaming](Problems/Privacy/Advergaming.md)
 
-[Advertisment](Advertisment.md)
+[Advertisment](Problems/Privacy/Advertisment.md)
 
 # Real world interactions
-[Health damage](Health%20damage.md)
+[Health damage](Problems/Real%20world%20interactions/Health%20damage.md)
 
-[Isolation, mental health](Isolation,%20mental%20health.md)
+[Isolation, mental health](Problems/Real%20world%20interactions/Isolation,%20mental%20health.md)
 
-[Physical dangers](Physical%20dangers.md)
+[Physical dangers](Problems/Real%20world%20interactions/Physical%20dangers.md)
 
-[VR, RR interactions](VR,%20RR%20interactions.md)
+[VR, RR interactions](Problems/Real%20world%20interactions/VR,%20RR%20interactions.md)
 
 # Other
-[Governance, policies](Governance,%20policies.md)
+[Governance, policies](Problems/Governance,%20policies.md)
